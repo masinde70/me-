@@ -1,4 +1,3 @@
-
 #pragma_once
 #include <optional>
 #include <iostream>
